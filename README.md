@@ -16,7 +16,7 @@
    
 ## Use case diagram
 
-![use case diagram]( link) 
+![use case diagram](https://github.com/Iskenderun-Technical-University/proje-onerisi-covid-19-ile-mucadele/blob/main/images/Untitled%20Workspace.png) 
  
  </br>
 
