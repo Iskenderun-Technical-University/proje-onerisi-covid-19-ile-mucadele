@@ -28,3 +28,8 @@ Bu otomasyonda C# programlama dili kullanılmıştır.
  ## Katkı
  - **Nesrin YARAR**  </br>
  - **Murat YALÇIN**
+
+## Projemizde gerekli olan iş parçacıkları
+- **1. Veritabanı Tablolarının oluşturulması (Murat YALÇIN)** </br>
+- **2. Tüm web arayüzlerinin oluşturulması (Nesrin YARAR)** 
+
