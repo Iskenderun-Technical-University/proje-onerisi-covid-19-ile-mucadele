@@ -30,7 +30,7 @@ Bu otomasyonda C# programlama dili kullanılmıştır.
  - **Murat YALÇIN**
 
 ## Projemizde gerekli olan iş parçacıkları
-- **1. Veritabanı Tablolarının oluşturulması (Murat YALÇIN)  (20.04.2022)** </br>
+- **1. Veritabanı Tablolarının oluşturulması (Murat YALÇIN)  (05.05.2022)** </br>
 - **2. Tüm web arayüzlerinin oluşturulması (Nesrin YARAR)  (20.05.2022)** 
 
 
