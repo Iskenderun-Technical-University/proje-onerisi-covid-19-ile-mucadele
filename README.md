@@ -33,5 +33,7 @@ Bu otomasyonda C# programlama dili kullanılmıştır.
 - **1. Veritabanı Tablolarının oluşturulması (Murat YALÇIN)  (05.05.2022)** </br>
 - **2. Tüm web arayüzlerinin oluşturulması (Nesrin YARAR)  (20.05.2022)** 
 
+## Class diagram
 
+![use case diagram](https://github.com/Iskenderun-Technical-University/proje-onerisi-covid-19-ile-mucadele/blob/main/images/InkedUML%20class_LI.jpg)
 
