@@ -37,3 +37,14 @@ Bu otomasyonda C# programlama dili kullanılmıştır.
 
 ![use case diagram](https://github.com/Iskenderun-Technical-University/proje-onerisi-covid-19-ile-mucadele/blob/main/images/InkedUML%20class_LI.jpg)
 
+## TESLİM EDİLDİ (Önemli Olanlar)
+YMG_Proje_ödevi dosyasına yüklendi.<br>
+*KAYITLI 2 PERSONEL VARDIR*<br>
+1)KID=1 ŞİFRE=123456<br>
+2)KID=3 ŞİFRE=123456 <br>
+NOT= Personel hasta kaydını girdikten sonra hasta giriş sayfasında TC'si ile giriş yapabilir.<br><br>
+*KAYITLI 4 HASTA VARDIR*<br>
+1)TC=77777777777<br>
+2)TC=11111111111<br>
+3)TC=22222222222<br>
+4)TC=33333333333
