@@ -47,4 +47,4 @@ NOT= Personel hasta kaydını girdikten sonra hasta giriş sayfasında TC'si ile
 1)TC=77777777777<br>
 2)TC=11111111111<br>
 3)TC=22222222222<br>
-4)TC=33333333333
+4)TC=33333333333<br>
